@@ -1,6 +1,6 @@
 # Bachchu (Aaditya) Chatterjee - Portfolio Website
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/AadityaUoHyd/abc-html-css-portfolio/refs/heads/main/images/screenshot.png)
+![Portfolio Screenshot](https://raw.githubusercontent.com/AadityaUoHyd/abc-portfolio/refs/heads/main/images/screenshot.png)
 
 A professional, responsive portfolio website built with pure HTML and CSS. 
 It showcases my skills as a Full Stack Software Developer, featuring sections for 
@@ -58,9 +58,9 @@ The design is modern, dark-themed with gold accents, and optimized for desktop, 
 
 ### Netlify (Recommended - Free & Easy)
 1. Push code to GitHub.
-2. Connect repo to [github](https://AadityaUoHyd.github.io/abc-html-css-portfolio/).
+2. Connect repo to [github](https://AadityaUoHyd.github.io/abc-portfolio/).
 3. Set build command: (none) and publish directory: `/`.
-4. Deploy! Get a custom URL like `your-portfolio.netlify.app` or `https://AadityaUoHyd.github.io/abc-html-css-portfolio/` in github page.
+4. Deploy! Get a custom URL like `your-portfolio.netlify.app` or `https://AadityaUoHyd.github.io/abc-portfolio/` in github page.
 
 ### GitHub Pages
 1. Push to GitHub repo.
@@ -86,4 +86,4 @@ MIT License - Free to use, modify, and distribute. © 2025 Aaditya B Chatterjee.
 
 ## Find my portfolio here
 
-https://AadityaUoHyd.github.io/abc-html-css-portfolio/
+https://AadityaUoHyd.github.io/abc-portfolio/
